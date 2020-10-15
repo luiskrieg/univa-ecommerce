@@ -1,5 +1,8 @@
 <?php
 
-    echo "UNIVA eCommerce - Guerra - BE";
+    require_once "controller/ControllerTemplate.php";
+
+    $template = new ControllerTemplate();
+    $template -> template();
 
 ?>
