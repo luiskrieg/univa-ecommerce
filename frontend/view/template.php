@@ -22,5 +22,6 @@
         include "modules/header.php";
 
     ?>
+    <script src="view/js/header.js"></script>
 </body>
 </html>
